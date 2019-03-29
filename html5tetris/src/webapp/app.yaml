@@ -1,6 +1,6 @@
 application: twitchtetris
 version: 1-2-5-without-total-hs
-runtime: python
+runtime: python27
 env: flex
 api_version: 1
 
